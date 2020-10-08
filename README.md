@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-I need to ensure it's working fine now
+I need to ensure it's working fine now. Adding a line for rebasing example
 
 ## Purpose
 
