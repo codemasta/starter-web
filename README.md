@@ -13,6 +13,8 @@ to the code section to see the changes to it
 
 This is really nice oo
 
+Please fork this repository and then issue pull requests for review.
+
 #### Copyright 
 
 2014 Git.Training
